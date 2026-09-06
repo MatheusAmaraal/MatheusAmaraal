@@ -1,13 +1,12 @@
-# Hi 👋, I'm Herbert Souza
+# Olá 👋, eu sou Matheus Amaral
 
-🚀 **Senior Software Engineer | JavaScript & .NET Specialist**  
-🇧🇷 Brazil
+🚀 **Analista de Dados | Business Intelligence**
 
-I build **scalable products**, **SaaS platforms**, and **high-performance web systems**.  
-I’m deeply focused on **architecture, performance, clean code, and business-driven solutions**.
+Atuo na área de Dados, desenvolvendo análises, indicadores e dashboards para apoiar a tomada de decisão.
 
-I also create content and share knowledge on **software development, SaaS, and tech entrepreneurship**.
+Tenho experiência com Business Intelligence, análise de dados e visualização de informações, utilizando ferramentas como Power BI, SQL, Excel, Tableau e SAS.
 
+Meu foco é transformar dados em insights, melhorar processos e desenvolver soluções orientadas às necessidades do negócio.
 ---
 
 ## 🌐 Where to find me
