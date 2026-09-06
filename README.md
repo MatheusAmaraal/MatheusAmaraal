@@ -8,21 +8,14 @@ Tenho experiência com Business Intelligence, análise de dados e visualização
 
 Meu foco é transformar dados em insights, melhorar processos e desenvolver soluções orientadas às necessidades do negócio.
 ---
-
-## 🌐 Where to find me
+## 🌐 Onde me encontrar
 
 <p align="left">
-  <a href="https://github.com/herbertcarnaubadesouza">
-    <img src="https://img.shields.io/badge/GitHub-HERBERTCARNAUBADESOUZA-181717?style=for-the-badge&logo=github" />
+  <a href="https://github.com/MatheusAmaraal">
+    <img src="https://img.shields.io/badge/GitHub-MATHEUSAMARAAL-181717?style=for-the-badge&logo=github" />
   </a>
-  <a href="https://instagram.com/oreidosites">
-    <img src="https://img.shields.io/badge/Instagram-@OREIDOSITES-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="https://www.tiktok.com/@oreidosites">
-    <img src="https://img.shields.io/badge/TikTok-@OREIDOSITES-000000?style=for-the-badge&logo=tiktok" />
-  </a>
-  <a href="https://www.youtube.com/@oreidosites">
-    <img src="https://img.shields.io/badge/YouTube-O%20REI%20DO%20SITES-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  <a href="https://www.linkedin.com/in/matheusferreiradoamaral/">
+    <img src="https://img.shields.io/badge/LinkedIn-Matheus%20Amaral-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
