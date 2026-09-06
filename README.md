@@ -62,3 +62,8 @@ Meu foco é transformar dados em insights, melhorar processos e desenvolver solu
 ### ☁️ Dados e Computação
 
 ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
+
+### ⚙️ Sistemas e Ferramentas
+
+![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
