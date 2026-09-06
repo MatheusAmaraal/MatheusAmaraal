@@ -67,3 +67,20 @@ Meu foco é transformar dados em insights, melhorar processos e desenvolver solu
 
 ![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
 ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
+
+---
+
+## 📂 Projetos em Destaque
+
+### 🤖 Selenium Test Automation
+
+Projeto de automação de testes desenvolvido em Python utilizando Selenium.
+
+O objetivo é automatizar interações com páginas web, contribuindo para a validação de funcionalidades e a otimização de processos de teste.
+
+**Tecnologias utilizadas:**
+- Python
+- Selenium
+- Jupyter Notebook
+
+🔗 [Acessar projeto no GitHub](https://github.com/MatheusAmaraal/Selenium-Test-Automation)
