@@ -21,18 +21,19 @@ Meu foco é transformar dados em insights, melhorar processos e desenvolver solu
 
 ---
 
-## 🧠 What I do
+## 🧠 O que eu faço
 
--   🏗️ SaaS & High-scale systems
--   ⚡ Performance optimization
--   🧩 Clean architecture & system design
--   🔐 Secure APIs & authentication
--   💳 Payments, subscriptions & business logic
--   🤖 Automation & integrations
--   📊 Dashboards & analytics
--   🎓 Teaching & mentoring developers
+- 📊 Desenvolvimento de dashboards e relatórios no Power BI, SAS e Tableau
+- 🧮 Análise e tratamento de dados
+- 🗄️ Consultas e manipulação de dados com SQL
+- 📈 Criação e acompanhamento de indicadores de desempenho
+- 🔍 Identificação de oportunidades de melhoria por meio de dados
+- 📋 Automação e otimização de processos de análise
+- 🛠️ Desenvolvimento de soluções de Business Intelligence
+- 💼 Apoio à tomada de decisão orientada por dados
 
 ---
+
 
 ## 🛠️ Tech Stack
 
